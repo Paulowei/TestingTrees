@@ -1,0 +1,9 @@
+Exception in thread "main" java.lang.IllegalThreadStateException
+	at java.base/java.lang.Thread.start(Thread.java:793)
+	at com.moderneinstein.arcade.chromebot.App.main(App.java:95)
+Exception in thread "main" java.lang.IllegalThreadStateException
+	at java.base/java.lang.Thread.start(Thread.java:793)
+	at com.moderneinstein.arcade.chromebot.App.main(App.java:96)
+Exception in thread "main" java.lang.IllegalThreadStateException
+	at java.base/java.lang.Thread.start(Thread.java:793)
+	at com.moderneinstein.arcade.chromebot.App.main(App.java:96)
